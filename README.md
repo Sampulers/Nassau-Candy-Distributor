@@ -1,9 +1,9 @@
-# 1. Project Title
+# 1. Title
 **Factory Reallocation & Shipping Optimization Recommendation System for Nassau Candy Distributor**
 AI-Powered Factory Assignment, Logistics Optimization and Decision Intelligence Platform for Nassau Candy Distributor
 "C:\Users\ss88s\OneDrive\Pictures\Screenshots\1.png"
 
-# 2. Brief One-Line Summary
+# 2. Summary
 An AI-driven supply chain decision intelligence platform that predicts delivery lead time, optimizes factory-product assignments using machine learning and mixed-integer optimization, and recommends cost-efficient factory reallocations to improve logistics performance.
 
 # 3. Overview
@@ -14,53 +14,53 @@ To remain competitive, leadership requires a data-driven decision support system
 | **"What should we change to improve logistics performance while maintaining profitability?"**
 This project introduces an AI-powered Decision Intelligence System that:
 
-- ● Predicts shipping outcomes under different factory assignment scenarios.
-- ● Recommends optimal product reallocations across factories.
-- ● Balances shipping efficiency, operational performance, and profitability.
+● Predicts shipping outcomes under different factory assignment scenarios.
+● Recommends optimal product reallocations across factories.
+● Balances shipping efficiency, operational performance, and profitability.
 
 **Current Logistics Workflow**
 Currently, Nassau Candy assigns products to manufacturing facilities using predefined factory-product mappings without dynamically considering transportation distance, regional demand, or logistics performance.
 
 As a result, the existing workflow leads to:
-- ● Suboptimal shipping distances.
-- ● Higher delivery lead times for certain customer regions.
-- ● Increased transportation costs.
-- ● Margin erosion caused by logistics inefficiencies.
-- ● Uneven factory workload distribution.
+● Suboptimal shipping distances.
+● Higher delivery lead times for certain customer regions.
+● Increased transportation costs.
+● Margin erosion caused by logistics inefficiencies.
+● Uneven factory workload distribution.
 
 **Existing Challenges**
 The current logistics planning process lacks an intelligent decision-support framework capable of evaluating alternative operational strategies before implementation.
 
 Specifically, there is no system to:
-- ● Simulate factory–product reassignment scenarios
-- ● Quantify the operational impact before execution
-- ● Compare multiple allocation strategies.
-- ● Recommend optimal factory configurations at scale.
-- ● Support data-driven logistics planning.
+● Simulate factory–product reassignment scenarios
+● Quantify the operational impact before execution
+● Compare multiple allocation strategies.
+● Recommend optimal factory configurations at scale.
+● Support data-driven logistics planning.
   
 **Why Factory Reallocation is Necessary**
 As customer demand, transportation costs, and regional shipping patterns continue to change, static factory assignments become increasingly inefficient. A product manufactured at one factory may reach certain customer regions faster and at a lower cost if produced by another facility.
 
 Factory reallocation enables the organization to:
 
-- ● Reduce transportation distance.
-- ● Minimize delivery lead times.
-- ● Lower shipping and operational costs.
-- ● Improve factory utilization.
-- ● Increase overall supply chain efficiency.
-- ● Support strategic, data-driven operational decisions.
+● Reduce transportation distance.
+● Minimize delivery lead times.
+● Lower shipping and operational costs.
+● Improve factory utilization.
+● Increase overall supply chain efficiency.
+● Support strategic, data-driven operational decisions.
 
 **Objectives of the Project**
 
 The primary objective of this project is to develop an AI-powered Factory Reallocation & Shipping Optimization Decision Intelligence System capable of:
-- ● Predicting delivery lead time using machine learning.
-- ● Simulating alternative factory-product assignment scenarios.
-- ● Optimizing factory allocation using mathematical optimization techniques.
-- ● Recommending optimal factory-product combinations.
-- ● Identifying high-risk shipping routes.
-- ● Evaluating operational impact before implementation.
-- ● Improving logistics efficiency while maintaining profitability.
-- ● Providing interactive decision support through Power BI dashboards and scenario simulation.
+● Predicting delivery lead time using machine learning.
+● Simulating alternative factory-product assignment scenarios.
+● Optimizing factory allocation using mathematical optimization techniques.
+● Recommending optimal factory-product combinations.
+● Identifying high-risk shipping routes.
+● Evaluating operational impact before implementation.
+● Improving logistics efficiency while maintaining profitability.
+● Providing interactive decision support through Power BI dashboards and scenario simulation.
 
 **Expected business impact**
 
