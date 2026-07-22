@@ -64,7 +64,7 @@ The primary objective of this project is to develop an AI-powered Factory Reallo
 
 **Expected business impact**
 
-"C:\Users\ss88s\Downloads\Project\Nassau_Candy_Distributor\Copilot_20260625_040851.png""C:\Users\ss88s\Downloads\Project\Nassau_Candy_Distributor\Copilot_20260625_040851.png"
+"https://github.com/Sampulers/Nassau-Candy-Distributor/blob/3b5c48378bf685ad97b7c7cb5d4157bb4ae088be/Copilot_20260625_040851.png"
 
 # 4. Problem Statement
 Current process relies on static factory assignments.
