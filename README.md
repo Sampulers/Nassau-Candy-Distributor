@@ -1,7 +1,7 @@
 # 1. Title
 **Factory Reallocation & Shipping Optimization Recommendation System for Nassau Candy Distributor**
 AI-Powered Factory Assignment, Logistics Optimization and Decision Intelligence Platform for Nassau Candy Distributor
-"https://github.com/Sampulers/Nassau-Candy-Distributor/blob/8ad0ab6180641ba061fddf06c9994ad282aaeee9/1.png"
+https://github.com/Sampulers/Nassau-Candy-Distributor/blob/8ad0ab6180641ba061fddf06c9994ad282aaeee9/1.png
 
 # 2. Summary
 An AI-driven supply chain decision intelligence platform that predicts delivery lead time, optimizes factory-product assignments using machine learning and mixed-integer optimization, and recommends cost-efficient factory reallocations to improve logistics performance.
