@@ -168,38 +168,35 @@ Include one or two visuals from your Route Performance and Risk pages.
 # 9. Dashboard / Model / Output
 
 Executive Overview
-(Insert Screenshot 1)
+"https://github.com/Sampulers/Nassau-Candy-Distributor/blob/8ad0ab6180641ba061fddf06c9994ad282aaeee9/1.png"
 
 Shipping Performance Analytics
-
-(Insert Screenshot 2)
+"https://github.com/Sampulers/Nassau-Candy-Distributor/blob/8ad0ab6180641ba061fddf06c9994ad282aaeee9/2.png"
 
 Machine Learning Prediction Dashboard
-
-(Insert Screenshot 3)
+"https://github.com/Sampulers/Nassau-Candy-Distributor/blob/8ad0ab6180641ba061fddf06c9994ad282aaeee9/3.png"
 
 Route & Product Clustering
-
-(Insert Screenshot 4)
+"https://github.com/Sampulers/Nassau-Candy-Distributor/blob/8ad0ab6180641ba061fddf06c9994ad282aaeee9/4.png"
 
 What-if Scenario Simulator
-
-(Insert Screenshot 5)
+"https://github.com/Sampulers/Nassau-Candy-Distributor/blob/8ad0ab6180641ba061fddf06c9994ad282aaeee9/5.png"
 
 Optimization Recommendation Engine
-
-(Insert Screenshot 6)
+"https://github.com/Sampulers/Nassau-Candy-Distributor/blob/8ad0ab6180641ba061fddf06c9994ad282aaeee9/6.png"
 
 Risk & Impact Analysis
+"https://github.com/Sampulers/Nassau-Candy-Distributor/blob/8ad0ab6180641ba061fddf06c9994ad282aaeee9/7.png"
 
-(Insert Screenshot 7)
 
 **File	Description**
 
-| lead_time_predictions.xlsx	  | Predicted lead times for all scenarios |
-| lead_time_metrics.xlsx	      | Evaluation metrics (MAE, RMSE, R²)     |
-| shap_output.xlsx	|           | SHAP feature importance values         |
-| Nassau_Candy_Distributor.pbix	| Interactive Power BI dashboard         |
+| "https://github.com/Sampulers/Nassau-Candy-Distributor/blob/8ad0ab6180641ba061fddf06c9994ad282aaeee9/lead_time_predictions.xlsx	    | Predicted lead times for all scenarios |
+| "https://github.com/Sampulers/Nassau-Candy-Distributor/blob/8ad0ab6180641ba061fddf06c9994ad282aaeee9/lead_time_metrics.xlsx"	      | Evaluation metrics (MAE, RMSE, R²)     |
+| "https://github.com/Sampulers/Nassau-Candy-Distributor/blob/8ad0ab6180641ba061fddf06c9994ad282aaeee9/shap_output.xlsx"	            | SHAP feature importance values         |
+| "https://github.com/Sampulers/Nassau-Candy-Distributor/blob/8ad0ab6180641ba061fddf06c9994ad282aaeee9/Factory_Correlation.xlsx"      | Factory Correlation                    |
+| "https://github.com/Sampulers/Nassau-Candy-Distributor/blob/8ad0ab6180641ba061fddf06c9994ad282aaeee9/Nassau_Candy_Distributor.pbix"	| Interactive Power BI dashboard       |
+| "https://github.com/Sampulers/Nassau-Candy-Distributor/blob/8ad0ab6180641ba061fddf06c9994ad282aaeee9/app.py"                        | Interactive Streamlit Application    |
 
 # 10. How to Run this Project
 1. Clone the repository.
