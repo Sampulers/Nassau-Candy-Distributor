@@ -193,9 +193,10 @@ Risk & Impact Analysis
 | "https://github.com/Sampulers/Nassau-Candy-Distributor/blob/8ad0ab6180641ba061fddf06c9994ad282aaeee9/lead_time_predictions.xlsx	    | Predicted lead times for all scenarios |
 | "https://github.com/Sampulers/Nassau-Candy-Distributor/blob/8ad0ab6180641ba061fddf06c9994ad282aaeee9/lead_time_metrics.xlsx"	      | Evaluation metrics (MAE, RMSE, R²)     |
 | "https://github.com/Sampulers/Nassau-Candy-Distributor/blob/8ad0ab6180641ba061fddf06c9994ad282aaeee9/shap_output.xlsx"	            | SHAP feature importance values         |
+| "https://github.com/Sampulers/Nassau-Candy-Distributor/blob/2645d766b0da57e17277c9cd7e836ea869aab83a/Factory_Coordinates.xlsx"      | Factory Coordinates                    |
 | "https://github.com/Sampulers/Nassau-Candy-Distributor/blob/8ad0ab6180641ba061fddf06c9994ad282aaeee9/Factory_Correlation.xlsx"      | Factory Correlation                    |
-| "https://github.com/Sampulers/Nassau-Candy-Distributor/blob/8ad0ab6180641ba061fddf06c9994ad282aaeee9/Nassau_Candy_Distributor.pbix"	| Interactive Power BI dashboard       |
-| "https://github.com/Sampulers/Nassau-Candy-Distributor/blob/8ad0ab6180641ba061fddf06c9994ad282aaeee9/app.py"                        | Interactive Streamlit Application    |
+| "https://github.com/Sampulers/Nassau-Candy-Distributor/blob/8ad0ab6180641ba061fddf06c9994ad282aaeee9/Nassau_Candy_Distributor.pbix"	| Interactive Power BI dashboard         |
+| "https://github.com/Sampulers/Nassau-Candy-Distributor/blob/8ad0ab6180641ba061fddf06c9994ad282aaeee9/app.py"                        | Interactive Streamlit Application      |
 
 # 10. How to Run this Project
 1. Clone the repository.
