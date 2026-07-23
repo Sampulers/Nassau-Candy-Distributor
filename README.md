@@ -78,9 +78,8 @@ Problems:
 ● No optimization before implementation
 
 # 5. Dataset
-Source: "Nassau Candy Distributor Supply Chain Dataset"
-Dataset Fields Description:
-Field	Description
+Source: "https://github.com/Sampulers/Nassau-Candy-Distributor/blob/8ad0ab6180641ba061fddf06c9994ad282aaeee9/Nassau%20Candy%20Distributor.xlsx"
+Dataset Field Description:
 Row ID	                           Unique row identifier
 Order ID	                         Unique order identifier
 Order Date	                       Date of order
