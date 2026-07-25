@@ -1,7 +1,7 @@
 # 1. Title
 **Factory Reallocation & Shipping Optimization Recommendation System for Nassau Candy Distributor**
 AI-Powered Factory Assignment, Logistics Optimization and Decision Intelligence Platform for Nassau Candy Distributor
-"https://github.com/Sampulers/Nassau-Candy-Distributor/blob/8ad0ab6180641ba061fddf06c9994ad282aaeee9/1.png"
+"https://github.com/Sampulers/Nassau-Candy-Distributor/blob/376bab6bc6c345b4129ff8bfbf599e6967adeaab/Executive_Overview_1.png"
 
 # 2. Summary
 An AI-driven supply chain decision intelligence platform that predicts delivery lead time, optimizes factory-product assignments using machine learning and mixed-integer optimization, and recommends cost-efficient factory reallocations to improve logistics performance.
@@ -167,25 +167,25 @@ Include one or two visuals from your Route Performance and Risk pages.
 # 9. Dashboard / Model / Output
 
 Executive Overview
-"https://github.com/Sampulers/Nassau-Candy-Distributor/blob/8ad0ab6180641ba061fddf06c9994ad282aaeee9/1.png"
+"https://github.com/Sampulers/Nassau-Candy-Distributor/blob/376bab6bc6c345b4129ff8bfbf599e6967adeaab/Executive_Overview_1.png"
 
 Shipping Performance Analytics
-"https://github.com/Sampulers/Nassau-Candy-Distributor/blob/8ad0ab6180641ba061fddf06c9994ad282aaeee9/2.png"
+"https://github.com/Sampulers/Nassau-Candy-Distributor/blob/376bab6bc6c345b4129ff8bfbf599e6967adeaab/Shipping%20Performance%20Analytics_2.png"
 
 Machine Learning Prediction Dashboard
-"https://github.com/Sampulers/Nassau-Candy-Distributor/blob/8ad0ab6180641ba061fddf06c9994ad282aaeee9/3.png"
+"https://github.com/Sampulers/Nassau-Candy-Distributor/blob/376bab6bc6c345b4129ff8bfbf599e6967adeaab/Machine%20Learning%20Prediction_3.png"
 
 Route & Product Clustering
-"https://github.com/Sampulers/Nassau-Candy-Distributor/blob/8ad0ab6180641ba061fddf06c9994ad282aaeee9/4.png"
+"https://github.com/Sampulers/Nassau-Candy-Distributor/blob/376bab6bc6c345b4129ff8bfbf599e6967adeaab/Route%20%26%20Product%20Clustering_4.png"
 
 What-if Scenario Simulator
-"https://github.com/Sampulers/Nassau-Candy-Distributor/blob/8ad0ab6180641ba061fddf06c9994ad282aaeee9/5.png"
+"https://github.com/Sampulers/Nassau-Candy-Distributor/blob/376bab6bc6c345b4129ff8bfbf599e6967adeaab/What-If%20Scenario%20Simulator_5.png"
 
 Optimization Recommendation Engine
-"https://github.com/Sampulers/Nassau-Candy-Distributor/blob/8ad0ab6180641ba061fddf06c9994ad282aaeee9/6.png"
+"https://github.com/Sampulers/Nassau-Candy-Distributor/blob/376bab6bc6c345b4129ff8bfbf599e6967adeaab/Optimization%20Recommendation%20Engine_6.png"
 
 Risk & Impact Analysis
-"https://github.com/Sampulers/Nassau-Candy-Distributor/blob/8ad0ab6180641ba061fddf06c9994ad282aaeee9/7.png"
+"https://github.com/Sampulers/Nassau-Candy-Distributor/blob/376bab6bc6c345b4129ff8bfbf599e6967adeaab/Risk%20%26%20Impact%20Analysis_7.png"
 
 
 **File	Description**
