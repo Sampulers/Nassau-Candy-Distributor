@@ -176,7 +176,7 @@ Machine Learning Prediction Dashboard
 "https://github.com/Sampulers/Nassau-Candy-Distributor/blob/376bab6bc6c345b4129ff8bfbf599e6967adeaab/Machine%20Learning%20Prediction_3.png"
 
 Route & Product Clustering
-"https://github.com/Sampulers/Nassau-Candy-Distributor/blob/376bab6bc6c345b4129ff8bfbf599e6967adeaab/Route%20%26%20Product%20Clustering_4.png"
+"https://github.com/Sampulers/Nassau-Candy-Distributor/blob/b104563b5ba1837abb3f519ead2bb67dccf2fb80/Route%20%26%20Product%20Clustering_4.png"
 
 What-if Scenario Simulator
 "https://github.com/Sampulers/Nassau-Candy-Distributor/blob/376bab6bc6c345b4129ff8bfbf599e6967adeaab/What-If%20Scenario%20Simulator_5.png"
