@@ -170,7 +170,7 @@ Executive Overview
 "https://github.com/Sampulers/Nassau-Candy-Distributor/blob/376bab6bc6c345b4129ff8bfbf599e6967adeaab/Executive_Overview_1.png"
 
 Shipping Performance Analytics
-"https://github.com/Sampulers/Nassau-Candy-Distributor/blob/376bab6bc6c345b4129ff8bfbf599e6967adeaab/Shipping%20Performance%20Analytics_2.png"
+"https://github.com/Sampulers/Nassau-Candy-Distributor/blob/a20a7eeaa98fa58d9403b09dd7eeec4f3ce01813/Shipping%20Performance%20Analytics_2.png"
 
 Machine Learning Prediction Dashboard
 "https://github.com/Sampulers/Nassau-Candy-Distributor/blob/376bab6bc6c345b4129ff8bfbf599e6967adeaab/Machine%20Learning%20Prediction_3.png"
