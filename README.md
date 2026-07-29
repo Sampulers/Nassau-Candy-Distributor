@@ -196,7 +196,7 @@ Risk & Impact Analysis
 | "https://github.com/Sampulers/Nassau-Candy-Distributor/blob/2645d766b0da57e17277c9cd7e836ea869aab83a/Factory_Coordinates.xlsx"           | Factory Coordinates                    |
 | "https://github.com/Sampulers/Nassau-Candy-Distributor/blob/8ad0ab6180641ba061fddf06c9994ad282aaeee9/Factory_Correlation.xlsx"           | Factory Correlation                    |
 | "https://github.com/Sampulers/Nassau-Candy-Distributor/blob/8ad0ab6180641ba061fddf06c9994ad282aaeee9/Nassau_Candy_Distributor.pbix"      | Interactive Power BI dashboard         |
-| "https://github.com/Sampulers/Nassau-Candy-Distributor/blob/c80ea271f0b89b167a872e499936f2d4b6b43fca/Nassau_Candy_Distributor_app%20.py" | Interactive Streamlit Application      |
+| "https://factorysimulation.streamlit.app/"                                                                                               | Interactive Streamlit Application      |
 | "https://www.nassaucandy.com"                                                                                                            | Website link                           |
 
 
