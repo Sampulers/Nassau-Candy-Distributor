@@ -16,3 +16,5 @@ python -m streamlit run "Nassau_Candy_Distributor_app .py"
 ```
 
 If the app is already running, open the local URL shown in the terminal, usually http://localhost:8501.
+
+https://factorysimulation.streamlit.app/
