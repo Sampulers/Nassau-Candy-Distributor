@@ -1,4 +1,4 @@
-# 1. Title
+# 1. Project Title
 **Factory Reallocation & Shipping Optimization Recommendation System for Nassau Candy Distributor**
 AI-Powered Factory Assignment, Logistics Optimization and Decision Intelligence Platform for Nassau Candy Distributor
 "https://github.com/Sampulers/Nassau-Candy-Distributor/blob/376bab6bc6c345b4129ff8bfbf599e6967adeaab/Executive_Overview_1.png"
